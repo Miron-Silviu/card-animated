@@ -6,4 +6,4 @@ In this project I built a card adding animation. I only used html and css, the p
 
 To see the project live the demo link is added below.
 
-# DEMO:
+# DEMO:  https://miron-silviu.github.io/card-animated/
