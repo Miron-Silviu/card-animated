@@ -23,7 +23,8 @@ Users should be able to:
 
 # Screenshot
 
-![Desktop](![image](https://github.com/Miron-Silviu/interactive-rating/assets/119732322/4e084e10-1648-4a64-9515-5f7b5daa3c41)
+![Desktop](https://github.com/Miron-Silviu/card-animated/assets/119732322/a657c9c8-21ae-49b0-8e88-bd9b91623aee)
+
 
 ## Built with
 
