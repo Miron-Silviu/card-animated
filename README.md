@@ -19,7 +19,7 @@ Users should be able to:
 
 # LINK
 
-[DEMO](https://miron-silviu.github.io/card-animated/)
+[VIEW DEMO](https://miron-silviu.github.io/card-animated/)
 
 # Screenshot
 
