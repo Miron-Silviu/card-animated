@@ -23,7 +23,7 @@ Users should be able to:
 
 # Screenshot
 
-![Desktop](https://github.com/Miron-Silviu/card-animated/assets/119732322/a657c9c8-21ae-49b0-8e88-bd9b91623aee)
+[VIEW Desktop](https://github.com/Miron-Silviu/card-animated/assets/119732322/a657c9c8-21ae-49b0-8e88-bd9b91623aee)
 
 
 ## Built with
